@@ -109,6 +109,12 @@ body{
     font-weight: 700;
 }
 
+.card .content a:hover{
+    background: rgb(3, 19, 63);
+    color: white;
+    
+}
+
 @media (max-width:991px)
 {
     .card{
